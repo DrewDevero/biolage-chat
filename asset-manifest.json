@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biolage-chat/static/css/main.cf465b73.css",
+    "main.js": "/biolage-chat/static/js/main.691bb1b7.js",
+    "static/js/453.7e50ba23.chunk.js": "/biolage-chat/static/js/453.7e50ba23.chunk.js",
+    "index.html": "/biolage-chat/index.html",
+    "main.cf465b73.css.map": "/biolage-chat/static/css/main.cf465b73.css.map",
+    "main.691bb1b7.js.map": "/biolage-chat/static/js/main.691bb1b7.js.map",
+    "453.7e50ba23.chunk.js.map": "/biolage-chat/static/js/453.7e50ba23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf465b73.css",
+    "static/js/main.691bb1b7.js"
+  ]
+}
