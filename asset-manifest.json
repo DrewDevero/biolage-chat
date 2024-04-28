@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/biolage-chat/static/css/main.cf465b73.css",
-    "main.js": "/biolage-chat/static/js/main.691bb1b7.js",
+    "main.css": "/biolage-chat/static/css/main.1f4c4794.css",
+    "main.js": "/biolage-chat/static/js/main.cc0fed77.js",
     "static/js/453.7e50ba23.chunk.js": "/biolage-chat/static/js/453.7e50ba23.chunk.js",
+    "static/media/Biolage_background.png": "/biolage-chat/static/media/Biolage_background.b14ac356776842509292.png",
     "index.html": "/biolage-chat/index.html",
-    "main.cf465b73.css.map": "/biolage-chat/static/css/main.cf465b73.css.map",
-    "main.691bb1b7.js.map": "/biolage-chat/static/js/main.691bb1b7.js.map",
+    "main.1f4c4794.css.map": "/biolage-chat/static/css/main.1f4c4794.css.map",
+    "main.cc0fed77.js.map": "/biolage-chat/static/js/main.cc0fed77.js.map",
     "453.7e50ba23.chunk.js.map": "/biolage-chat/static/js/453.7e50ba23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf465b73.css",
-    "static/js/main.691bb1b7.js"
+    "static/css/main.1f4c4794.css",
+    "static/js/main.cc0fed77.js"
   ]
 }
